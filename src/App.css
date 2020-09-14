@@ -1,0 +1,85 @@
+body{
+  font-family:'Courier new';
+}
+#Home{
+  padding: 20% 20% 20% 20%;
+};
+#qualities{
+  padding:3%;
+}
+.icon1{
+  color:crimson;
+}
+.icon1:hover{
+  color:#ff4c68;
+}
+.icon2{
+  color:navy;
+}
+.icon2:hover{
+  color:skyblue;
+}
+.icon3{
+  color:rgb(6, 122, 93);
+}
+.icon3:hover{
+  color:rgb(15, 223, 119);
+};
+#skills{
+  align-items: center;
+}
+.logo1{
+  text-align: center;
+  font-size: 3rem;
+  
+}
+.skill1{
+  text-align: center;
+  font-size: large;
+  font-family: cambria;
+}
+.logo2{
+  text-align: center;
+  font-size: 3rem;
+  padding-top:2% ;
+  
+}
+.skill2{
+  text-align: center;
+  font-size: large;
+  font-family: cambria;
+}
+.logo3{
+  text-align: center;
+  font-size: 3rem;
+  padding-top:2% ;
+  
+}
+.skill3{
+  text-align: center;
+  font-size: large;
+  font-family: cambria;
+}
+.logo4{
+  text-align: center;
+  font-size: 3rem;
+  padding-top:2% ;
+  
+}
+.skill4{
+  text-align: center;
+  font-size: large;
+  font-family: cambria;
+};
+#stayTuned{
+  text-align: center;
+  background-color: #000000;
+}
+.social{
+  text-align: center;
+  margin:20px 10px; 
+  color:palevioletred 
+}
+.social:hover{
+  color:#e414a5;
+}
